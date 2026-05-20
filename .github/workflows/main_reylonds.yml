@@ -57,4 +57,4 @@ jobs:
           app-name: 'reylonds'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CA20CF5B75A94A0DBDE551C152C47AC4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AF4B672B930848CBAF05A615D44569B8 }}
