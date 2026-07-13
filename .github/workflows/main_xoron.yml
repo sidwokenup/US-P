@@ -57,4 +57,4 @@ jobs:
           app-name: 'xoron'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_388240DC74924C9D9D4F376A058F6B75 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4CDF750AA77449FC9187D4CE8AB59D85 }}
