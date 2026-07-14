@@ -1,9 +1,0 @@
-const fs = require('fs');
-
-const html = `<script>
-    document.open();
-    document.write('<!DOCTYPE html><html><head><title>Test</title></head><body><h1>Working!</h1><script>console.log("Script executed!");</sc'+'ript></body></html>');
-    document.close();
-</script>`;
-
-fs.writeFileSync('c:\\Users\\acer\\Desktop\\US-P\\sync_test.html', html);
